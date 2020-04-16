@@ -1272,7 +1272,7 @@ footer .footer__bottom .foot__item_list a:hover {
 
 @media screen and (max-width: 1326px) {
   html {
-    font-size: 7.1px;
+    font-size: 7px;
   }
 }
 
@@ -1394,7 +1394,7 @@ footer .footer__bottom .foot__item_list a:hover {
 
 @media screen and (max-width: 768px) {
   #hero .hero__row .hero__social {
-    bottom: 15rem;
+    bottom: 12.5rem;
   }
   #hero .hero__row .hero__content p {
     margin-top: 3.5rem;
