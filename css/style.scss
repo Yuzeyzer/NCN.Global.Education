@@ -1471,8 +1471,11 @@ footer .footer__bottom .foot__item_list a:hover {
 
 @media screen and (max-width: 560px) {
   .hero__row .hero__item_1 {
-    height: 80vh !important;
+    height: 100vh !important;
     width: 100%;
+  }
+  #hero .hero__row .hero__content h1::before {
+    left: -20%;
   }
   .hero__row .hero__content {
     position: absolute;
