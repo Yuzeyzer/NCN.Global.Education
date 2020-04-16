@@ -1272,7 +1272,7 @@ footer .footer__bottom .foot__item_list a:hover {
 
 @media screen and (max-width: 1326px) {
   html {
-    font-size: 6.5px;
+    font-size: 7px;
   }
 }
 
@@ -1425,14 +1425,13 @@ footer .footer__bottom .foot__item_list a:hover {
     max-width: 24.5rem;
   }
   #hero .hero__row .hero__item_1 {
-    height: 80vh;
+    height: 75vh;
     width: 100%;
   }
   #hero .hero__row .hero__content .hero__btn + .hero__btn {
     margin-left: 0 !important;
     margin-top: 2rem !important;
     text-align: center;
-    padding: 1.3rem 9rem;
   }
   #hero .hero__row .hero__content {
     position: absolute;
