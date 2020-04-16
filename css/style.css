@@ -1393,6 +1393,12 @@ footer .footer__bottom .foot__item_list a:hover {
 }
 
 @media screen and (max-width: 768px) {
+  #hero .hero__row .hero__social {
+    bottom: 15rem;
+  }
+  #hero .hero__row .hero__content p {
+    margin-top: 3.5rem;
+  }
   .submit__form {
     padding: 1rem 3rem 1rem !important;
     margin: auto;
@@ -1460,7 +1466,7 @@ footer .footer__bottom .foot__item_list a:hover {
 
 @media screen and (max-width: 560px) {
   .hero__row .hero__item_1 {
-    height: 100vh !important;
+    height: 80vh !important;
     width: 100%;
   }
   .hero__row .hero__content {
